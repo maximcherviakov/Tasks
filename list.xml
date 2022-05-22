@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+<task active="false" end="100" repeat="10" repeated="true" start="10" time="10">Some task</task>
+</tasks>

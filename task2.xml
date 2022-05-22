@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+<task active="false" end="10" repeat="0" repeated="false" start="10" time="10">a</task>
+<task active="false" end="20" repeat="0" repeated="false" start="20" time="20">b</task>
+<task active="false" end="30" repeat="0" repeated="false" start="30" time="30">c</task>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+<task active="false" end="40" repeat="0" repeated="false" start="40" time="40">d</task>
+<task active="false" end="100" repeat="5" repeated="true" start="0" time="0">e</task>
+</tasks>
